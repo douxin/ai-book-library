@@ -1,34 +1,34 @@
 [
-  { 
-    "id": "1", 
-    "title": "101 Essays That Will Change the Way You Think", 
+  {
+    "id": "f38231ed",
+    "title": "101 Essays That Will Change The Way You Think",
     "author": "Brianna Wiest",
-    "path": "/books/101%20Essays%20That%20Will%20Change%20the%20Way%20You%20Think%20(Brianna%20Wiest)%20(z-lib.org).epub", 
+    "path": "/books/101 Essays That Will Change the Way You Think (Brianna Wiest) (z-lib.org).epub",
     "coverImage": "https://static.gptlabs.cloud/default_logo.png",
-    "description": "A collection of thought-provoking essays that challenge readers to shift their perspective on various aspects of life."
+    "description": "Over the past few years, Brianna Wiest has gained renown for her deeply moving, philosophical writing. This new compilation of her published work features pieces on why you should pursue purpose over passion, embrace negative thinking, see the wisdom in daily routine, and become aware of the cognitive biases that are creating the way you see your life. Some of these pieces have never been seen; others have been read by millions of people around the world. Regardless, each will leave you thinking: this idea changed my life."
   },
   {
-    "id": "2",
-    "title": "40亿年地球生命简史",
-    "author": "道格拉斯·帕尔默",
-    "path": "/books/40%E4%BA%BF%E5%B9%B4%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E7%AE%80%E5%8F%B2.epub",
+    "id": "f1949af6",
+    "title": "40亿年地球生命简史（英国皇家学会科学图书奖。用基因科学全新发现，重述生命进化史，颠覆你对进化的旧认知）",
+    "author": "[英] 尼克·莱恩",
+    "path": "/books/40亿年地球生命简史.epub",
     "coverImage": "https://static.gptlabs.cloud/default_logo.png",
-    "description": "这本书讲述了地球生命从最初的单细胞生物到复杂的多细胞生物的演化历程，涵盖了40亿年的地球生命史。"
+    "description": "No description available."
   },
   {
-    "id": "3",
-    "title": "世界经典学术集系列（套装共13册）",
-    "author": "多位作者",
-    "path": "/books/%E4%B8%96%E7%95%8C%E7%BB%8F%E5%85%B8%E5%AD%A6%E6%9C%AF%E9%9B%86%E7%B3%BB%E5%88%97%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B113%E5%86%8C%20%EF%BC%89.epub",
+    "id": "57f5ce5a",
+    "title": "AI的25种可能（Edge创始人约翰·布罗克曼，25个全球最伟大的头脑，洞见6万亿美元AI市场的机遇与风险，政府、企业、个人预判AI趋势的重要依据。）",
+    "author": "约翰·布罗克曼",
+    "path": "/books/AI的25种可能.epub",
     "coverImage": "https://static.gptlabs.cloud/default_logo.png",
-    "description": "这套丛书汇集了13本世界经典学术著作，涵盖了哲学、社会学、经济学等多个领域，是一套综合性的学术精品集。"
+    "description": "No description available."
   },
   {
-    "id": "4",
-    "title": "AI的25种可能",
-    "author": "未知",
-    "path": "/books/AI%E7%9A%8425%E7%A7%8D%E5%8F%AF%E8%83%BD.epub",
+    "id": "55c689f6",
+    "title": "2000万人都学过——世界经典学术集系列（套装共13册）",
+    "author": "列夫•马诺维奇",
+    "path": "/books/世界经典学术集系列（套装共13册 ）.epub",
     "coverImage": "https://static.gptlabs.cloud/default_logo.png",
-    "description": "这本书探讨了人工智能的25种潜在发展方向和应用场景，为读者展示了AI技术的广阔前景和可能性。"
+    "description": "No description available."
   }
 ]

@@ -10,6 +10,7 @@
     "@types/node": "^16.18.112",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
+    "epub": "^1.2.1",
     "epubjs": "^0.3.93",
     "pdfjs-dist": "^4.7.76",
     "react": "^18.3.1",
@@ -25,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "extract-books": "node scripts/extraction.js"
   },
   "eslintConfig": {
     "extends": [
