@@ -1,0 +1,18 @@
+[
+  { 
+    "id": "1", 
+    "title": "101 Essays That Will Change the Way You Think", 
+    "author": "Brianna Wiest",
+    "path": "/books/101%20Essays%20That%20Will%20Change%20the%20Way%20You%20Think%20(Brianna%20Wiest)%20(z-lib.org).epub", 
+    "coverImage": "https://static.gptlabs.cloud/default_logo.png",
+    "description": "A collection of thought-provoking essays that challenge readers to shift their perspective on various aspects of life."
+  },
+  {
+    "id": "2",
+    "title": "40亿年地球生命简史",
+    "author": "道格拉斯·帕尔默",
+    "path": "/books/40%E4%BA%BF%E5%B9%B4%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E7%AE%80%E5%8F%B2.epub",
+    "coverImage": "https://static.gptlabs.cloud/default_logo.png",
+    "description": "这本书讲述了地球生命从最初的单细胞生物到复杂的多细胞生物的演化历程，涵盖了40亿年的地球生命史。"
+  }
+]
