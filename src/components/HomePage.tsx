@@ -24,6 +24,15 @@ const HomePage: React.FC = () => {
     book.author.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
+  const truncateTitle = (title: string, maxLength: number = 15) => {
+    return title.length > maxLength ? title.slice(0, maxLength) + '...' : title;
+  };
+
+  const generateGradient = (id: string) => {
+    const hue = parseInt(id, 16) % 360;
+    return `linear-gradient(135deg, hsl(${hue}, 70%, 60%), hsl(${(hue + 60) % 360}, 70%, 60%))`;
+  };
+
   return (
     <div className="home-page">
       <header className="header">
@@ -45,10 +54,28 @@ const HomePage: React.FC = () => {
           {filteredBooks.map((book) => (
             <Link to={`/read/${book.id}`} key={book.id} className="book-card">
               <div className="book-cover">
-                <img src={book.coverImage} alt={`${book.title} cover`} />
+                {book.coverImage ? (
+                  <img src={book.coverImage} alt={`${book.title} cover`} />
+                ) : (
+                  <div 
+                    className="gradient-cover"
+                    style={{
+                      background: generateGradient(book.id),
+                      display: 'flex',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      height: '100%',
+                      padding: '10px',
+                      textAlign: 'center',
+                      color: 'white',
+                    }}
+                  >
+                    <span>{truncateTitle(book.title, 30)}</span>
+                  </div>
+                )}
               </div>
               <div className="book-info">
-                <h3 className="book-title">{book.title}</h3>
+                <h3 className="book-title">{truncateTitle(book.title)}</h3>
                 <p className="book-author">{book.author}</p>
               </div>
             </Link>

@@ -10,6 +10,7 @@
     "@types/node": "^16.18.112",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.0",
+    "adm-zip": "^0.5.16",
     "epub": "^1.2.1",
     "epubjs": "^0.3.93",
     "pdfjs-dist": "^4.7.76",
