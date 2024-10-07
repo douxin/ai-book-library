@@ -14,5 +14,21 @@
     "path": "/books/40%E4%BA%BF%E5%B9%B4%E5%9C%B0%E7%90%83%E7%94%9F%E5%91%BD%E7%AE%80%E5%8F%B2.epub",
     "coverImage": "https://static.gptlabs.cloud/default_logo.png",
     "description": "这本书讲述了地球生命从最初的单细胞生物到复杂的多细胞生物的演化历程，涵盖了40亿年的地球生命史。"
+  },
+  {
+    "id": "3",
+    "title": "世界经典学术集系列（套装共13册）",
+    "author": "多位作者",
+    "path": "/books/%E4%B8%96%E7%95%8C%E7%BB%8F%E5%85%B8%E5%AD%A6%E6%9C%AF%E9%9B%86%E7%B3%BB%E5%88%97%EF%BC%88%E5%A5%97%E8%A3%85%E5%85%B113%E5%86%8C%20%EF%BC%89.epub",
+    "coverImage": "https://static.gptlabs.cloud/default_logo.png",
+    "description": "这套丛书汇集了13本世界经典学术著作，涵盖了哲学、社会学、经济学等多个领域，是一套综合性的学术精品集。"
+  },
+  {
+    "id": "4",
+    "title": "AI的25种可能",
+    "author": "未知",
+    "path": "/books/AI%E7%9A%8425%E7%A7%8D%E5%8F%AF%E8%83%BD.epub",
+    "coverImage": "https://static.gptlabs.cloud/default_logo.png",
+    "description": "这本书探讨了人工智能的25种潜在发展方向和应用场景，为读者展示了AI技术的广阔前景和可能性。"
   }
 ]
