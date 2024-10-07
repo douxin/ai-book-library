@@ -24,11 +24,43 @@
     "description": "No description available."
   },
   {
+    "id": "34f04402",
+    "title": "AI-Powered Business Intelligence",
+    "author": "Tobias Zwingmann",
+    "path": "/books/Ai-Powered Business Intelligence (Tobias Zwingmann) (Z-Library).epub",
+    "coverImage": "",
+    "description": "<span><div><p>Use business intelligence to power corporate growth, increase efficiency, and improve corporate decision making. With this practical book with hands-on examples in Power BI, you'll explore the most relevant AI use cases for BI, including improved forecasting, automated classification, and AI-powered recommendations. And you'll learn how to draw insights from unstructured data sources like text, document, images files.</p><p>Author Tobias Zwingmann helps BI professionals, business analysts, and data analytics understand high-impact areas of artificial intelligence. You'll learn how to leverage popular AI-as-a-service and AutoML platforms to ship enterprise-grade proofs of concept without the help of software engineers or data scientists.</p><ul><li>Learn how AI can generate business impact in BI environments</li><li>Use AutoML for automated classification and improved forecasting</li><li>Implement recommendation services to support decision-making</li><li>Draw insights from text data at scale with NLP services</li><li>Extract information from documents and images with computer vision services</li><li>Build interactive user frontends for AI-powered dashboard prototypes</li><li>Implement an end-to-end case study for building an AI-powered customer analytics dashboard</li></ul></div></span>"
+  },
+  {
+    "id": "4347eecc",
+    "title": "Brave New Words",
+    "author": "Salman Khan",
+    "path": "/books/Brave New Words How AI Will Revolutionize Education (and Why Thats a Good Thing) (Salman Khan) (Z-Library).epub",
+    "coverImage": "",
+    "description": "<b>&ldquo;A timely masterclass for anyone interested in the future of learning in the AI era.&rdquo;<br>&mdash;Bill Gates<br>&ldquo;This book is required reading for everyone who cares about education.&rdquo;<br>&mdash;Adam Grant, #1 <i>New York Times </i>bestselling author of <i>Hidden Potential</i> and <i>Think Again</i>, and host of the podcast <i>Re:Thinking</i><br>&ldquo;Read this book.&nbsp;It&rsquo;s the most fascinating and important account&nbsp;of how AI will transform the way we learn.&rdquo;<br>&mdash;Walter Isaacson, #1 <i>New York Times</i> bestselling author<br>From the founder of Khan Academy, the first book on the AI revolution in education, its implications for parenting, and how we can best harness its power for good.</b><br>Whether we like it or not, the AI revolution is coming to education. In <i>Brave New Words</i>, Salman Khan, the visionary behind Khan Academy, explores how artificial intelligence and GPT technology will transform learning, and offers a..."
+  },
+  {
+    "id": "fe3d69b1",
+    "title": "Elon Musk",
+    "author": "Walter Isaacson",
+    "path": "/books/Elon Musk - Walter Isaacson.epub",
+    "coverImage": "",
+    "description": "<B>From the author of <I>Steve Jobs</I> and other bestselling biographies, this is the astonishingly intimate story of the most fascinating and controversial innovator of our era&#8212;a rule-breaking visionary who helped to lead the world into the era of electric vehicles, private space exploration, and artificial intelligence. Oh, and took over Twitter.</B><b> </b><BR>When Elon Musk was a kid in South Africa, he was regularly beaten by bullies. One day a group pushed him down some concrete steps and kicked him until his face was a swollen ball of flesh. He was in the hospital for a week. But the physical scars were minor compared to the emotional ones inflicted by his father, an engineer, rogue, and charismatic fantasist.<BR> <BR>His father's impact on his psyche would linger. He developed into a tough yet vulnerable man-child, prone to abrupt Jekyll-and-Hyde mood swings, with an exceedingly high tolerance for risk, a craving for drama, an epic sense of mission, and a maniacal..."
+  },
+  {
     "id": "55c689f6",
     "title": "2000万人都学过——世界经典学术集系列（套装共13册）",
     "author": "列夫•马诺维奇",
     "path": "/books/世界经典学术集系列（套装共13册 ）.epub",
     "coverImage": "/images/55c689f6.jpeg",
+    "description": "No description available."
+  },
+  {
+    "id": "7830bc70",
+    "title": "伟大的思想（全6辑·共48册）",
+    "author": "马可·波罗",
+    "path": "/books/伟大的思想（中英双语版·全48册）【企鹅经典系列！汇集来自12个国家的46位大师经典作品！跨越2500年，为我们呈现包罗万象的思想精华！拾得一部书，叩响人文思想的穿越之门！】.epub",
+    "coverImage": "/images/7830bc70.jpeg",
     "description": "No description available."
   }
 ]
