@@ -2,6 +2,8 @@
 
 This is a system for managing and reading epub books locally, optimized for mobile devices. I will update the README with more information later.
 
+![Interface Preview](public/example.png)
+
 ## Installation and Startup
 
 1. Clone the project to your local machine:
