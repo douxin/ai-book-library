@@ -1,0 +1,19 @@
+.nav-bar {
+  background-color: white;
+  height: 46px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.book-title {
+  color: black;
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.reader-container {
+  height: calc(100vh - 47px);
+}

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { ReactReader } from 'react-reader';
 import booksData from '../data/books.json';
+import '../styles/BookReader.css'; // 添加这行以导入 CSS
 
 interface Book {
   id: string;
@@ -32,8 +33,10 @@ const BookReader: React.FC = () => {
 
   return (
     <div className="book-reader">
-      <h1>{book.title}</h1>
-      <div style={{ height: '100vh' }}>
+      <div className="nav-bar">
+        <h1 className="book-title">{book.title}</h1>
+      </div>
+      <div className="reader-container">
         <ReactReader 
           url={book.path}
           location={location}
